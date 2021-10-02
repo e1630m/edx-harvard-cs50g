@@ -1,4 +1,20 @@
 # Harvard [CS50G](https://www.edx.org/course/cs50s-introduction-to-game-development)
+## Table of Contents 
+|  #  | name | 
+| :-: | :--: |
+| [0](https://cs50.harvard.edu/games/2018/projects/0/pong/)          | [Pong](./pong) |
+| [1](https://cs50.harvard.edu/games/2018/projects/1/flappy/)        | [Flappy Bird](./flappy) |
+| [2](https://cs50.harvard.edu/games/2018/projects/2/breakout/)      | [Breakout](./breakout) |
+| [3](https://cs50.harvard.edu/games/2018/projects/3/match/)         | [Match 3](./match) |
+| [4](https://cs50.harvard.edu/games/2018/projects/4/mario/)         | [Super Mario Bros.](./mario) |
+| [5](https://cs50.harvard.edu/games/2018/projects/5/zelda/)         | [Legend of Zelda](./zelda) |
+| [6](https://cs50.harvard.edu/games/2018/projects/6/angry/)         | [Angry Birds](./angry) |
+| [7](https://cs50.harvard.edu/games/2018/projects/7/pokemon/)       | [Pokémon](./pokemon) |
+| [8](https://cs50.harvard.edu/games/2018/projects/8/helicopter/)    | [Helicopter Game 3D](./helicopter) |
+| [9](https://cs50.harvard.edu/games/2018/projects/9/dreadhalls/)    | [Dreadhalls](./dreadhalls) |
+| [10](https://cs50.harvard.edu/games/2018/projects/10/portal/)      | [Portal](./portal) |
+| [Final](https://cs50.harvard.edu/games/2018/projects/final/final/) | [Final](./final) |
+
 ## Course Infos
 * Course: [CS50's Introduction to Game Development](https://www.edx.org/course/cs50s-introduction-to-game-development)
 * Iteration: Year 2020
